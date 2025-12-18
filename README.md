@@ -1,4 +1,4 @@
-# ORIE_4580_Final_Project
+# ORIE_4580_5580_Final_Project
 
 # GPU Scheduling Simulation for LLM Inference
 
